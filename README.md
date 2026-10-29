@@ -23,6 +23,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/prathiksha1046-boop/leetcode-practice/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/prathiksha1046-boop/leetcode-practice/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@ my leetcode solutions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/prathiksha1046-boop/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/prathiksha1046-boop/leetcode-practice/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
